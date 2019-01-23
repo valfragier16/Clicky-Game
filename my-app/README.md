@@ -3,12 +3,10 @@ GW Homework Week 19
 
 #### Test your memory with your favorite shinobi from *Naruto*.
 
-This app is a memory game, as the user must click on each character once to win the game. But if the user clicks on a character twice, the game is over and restarts.
-
-#### Built with React. Check it out [here](https://github.com/valfragier16/Clicky-Game).
+This app is a memory game, built with React. The user must click on each character once to win the game. But if the user clicks on a character twice, the game is over and restarts.
 
 <h2>Demo</h2>
-Clicky-Game is deployed to Heroku. Please check it out <a href="https://newsscrapper18.herokuapp.com/" target="_blank">here</a>.
+Clicky-Game is deployed to Heroku. Please check it out <a href="https://clickygame19.herokuapp.com/" target="_blank">here</a>.
 
 
 <h2>Installation</h2>
