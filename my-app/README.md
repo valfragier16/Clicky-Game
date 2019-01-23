@@ -1,41 +1,35 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
+## Clicky-Game
+GW Homework Week 19
 
 #### Test your memory with your favorite shinobi from *Naruto*.
 
-#### Click on each character once to win the game. But don't click on a character twice, or it's game over for you!
+This app is a memory game, as the user must click on each character once to win the game. But if the user clicks on a character twice, the game is over and restarts.
 
 #### Built with React. Check it out [here](https://github.com/valfragier16/Clicky-Game).
+
+<h2>Demo</h2>
+Clicky-Game is deployed to Heroku. Please check it out <a href="https://newsscrapper18.herokuapp.com/" target="_blank">here</a>.
+
+
+<h2>Installation</h2>
+To install the application follow the instructions below:
+<ol>
+    <li>git clone git@github.com:valfragier16/Clicky-Game.git</li>
+    <li>cd Clicky-Game</li>
+    <li>cd my-app</li>
+    <li>npm install</li>
+
+<h2>Run Locally</h2>
+Once you have completed the installation, to access the application in your browser, first run <i>npm start<s/i> in your terminal within the <i>Clicky-Game/my-app</i> folder.
+
+If done properly, your terminal should display the following, which will include a list of articles and their links:
+
+![screenshot](public/terminal.JPG)
+
+![screenshot](public/app.JPG)
+
+<h2>Application</h2>
+
+The app will look like the image below:
 
 ![screenshot](public/app.JPG)
