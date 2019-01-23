@@ -19,13 +19,11 @@ To install the application follow the instructions below:
     <li>npm install</li>
 
 <h2>Run Locally</h2>
-Once you have completed the installation, to access the application in your browser, first run <i>npm start<s/i> in your terminal within the <i>Clicky-Game</i> folder.
+Once you have completed the installation, to access the application in your browser, first run <i>npm start</i> in your terminal within the <i>Clicky-Game</i> folder.
 
 If done properly, your terminal should display the following, which will include a list of articles and their links:
 
 ![screenshot](public/terminal.JPG)
-
-![screenshot](public/app.JPG)
 
 <h2>Application</h2>
 
